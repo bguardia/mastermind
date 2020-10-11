@@ -1,4 +1,3 @@
-require "./graphic.rb"
 require "pry"
 
 module Mastermind
